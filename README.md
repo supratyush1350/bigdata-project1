@@ -1,2 +1,2 @@
-# bigdata-project1
-my first big data priject
+Real-Time Sentiment Analysis on Social Media Data
+Real-time sentiment analysis on social media data is a dynamic and crucial process that involves automatically determining the emotional tone or attitude expressed in textual content shared across various social media platforms, such as Twitter, Facebook, Instagram, and more. This analysis aims to identify whether a given piece of text conveys a positive, negative, or neutral sentiment, providing valuable insights into public opinion, consumer behavior, and brand perception.
